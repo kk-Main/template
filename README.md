@@ -343,5 +343,3 @@ func _start_game():
 欢迎提交Issue和Pull Request来改进这个模板项目。
 
 ## 📄 许可证
-
-本项目采用MIT许可证，详见LICENSE文件。
